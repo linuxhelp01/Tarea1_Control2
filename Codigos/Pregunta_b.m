@@ -13,7 +13,7 @@ Lf = 7*10^-3; % 7 mili-henrrios
 Rf = 0.7; %Resistencia (Ohms)
 Cdc = 2*10^-2; % 2 mili-faradios
 Ll = 5.7; % 5.7 muli-henrrios
-Rl = 5; % Resistencia (Ohms)
+Rl = 5; % Resistenciaa (Ohms)
 
 
 %parametros de perturbacion
