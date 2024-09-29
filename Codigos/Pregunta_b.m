@@ -2,6 +2,8 @@ close all
 clc
 %% Parametros
 
+global Gdc Gac Rf Lf Rl Ll Cdc Vrms
+
 % Parametros tarea
 
 t = 0:100e-6:0.25; %tiempo de simulacion
